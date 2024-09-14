@@ -1,0 +1,47 @@
+/* Estilos para o rodapé */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-content {
+    margin-bottom: 20px;
+}
+
+.footer-content h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.footer-content p {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.socials {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+.socials li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.socials li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.footer-bottom {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    font-size: 14px;
+}
